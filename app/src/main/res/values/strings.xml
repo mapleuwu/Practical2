@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="safariapp">THE SAFARI APP</string>
+    <string name="animallist">ANIMAL LIST</string>
+    <string name="axltext">CLICK HERE TO FIND OUT MORE ABOUT AXOLOTLS</string>
+    <string name="ant">CLICK HERE TO FIND OUT MORE ABOUT ANTS</string>
+    <string name="alpacas">CLICK HERE TO FIND OUT MORE ABOUT ALPACAS</string>
+    <string name="wolf">CLICK HERE TO FIND OUT MORE ABOUT ARTIC WOLFS</string>
+</resources>
